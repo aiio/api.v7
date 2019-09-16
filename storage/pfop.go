@@ -3,9 +3,9 @@ package storage
 import (
 	"context"
 	"fmt"
-	"github.com/qiniu/api.v7/auth"
-	"github.com/qiniu/api.v7/client"
-	"github.com/qiniu/api.v7/conf"
+	"github.com/aiio/qiniu/auth"
+	"github.com/aiio/qiniu/client"
+	"github.com/aiio/qiniu/conf"
 	"net/http"
 )
 

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/qiniu/api.v7/auth"
+	"github.com/aiio/qiniu/auth"
 )
 
 // BucketSummary 存储空间信息

@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/qiniu/api.v7/auth"
+	"github.com/aiio/qiniu/auth"
 )
 
 var manager *Manager

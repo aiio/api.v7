@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"fmt"
-	"github.com/qiniu/api.v7/auth"
+	"github.com/aiio/qiniu/auth"
 )
 
 //global variables

@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/qiniu/api.v7"
-	"github.com/qiniu/api.v7/internal/log"
+	"github.com/aiio/qiniu"
+	"github.com/aiio/qiniu/internal/log"
 )
 
 const (

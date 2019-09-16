@@ -3,9 +3,9 @@ package sms
 import (
 	"net/http"
 
-	"github.com/qiniu/api.v7/auth"
-	"github.com/qiniu/api.v7/sms/client"
-	"github.com/qiniu/api.v7/sms/rpc"
+	"github.com/aiio/qiniu/auth"
+	"github.com/aiio/qiniu/sms/client"
+	"github.com/aiio/qiniu/sms/rpc"
 )
 
 var (

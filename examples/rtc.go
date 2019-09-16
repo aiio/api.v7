@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/qiniu/api.v7/auth"
-	"github.com/qiniu/api.v7/rtc"
+	"github.com/aiio/qiniu/auth"
+	"github.com/aiio/qiniu/rtc"
 )
 
 var (

@@ -1,7 +1,7 @@
 package qbox
 
 import (
-	"github.com/qiniu/api.v7/auth"
+	"github.com/aiio/qiniu/auth"
 	"net/http"
 )
 

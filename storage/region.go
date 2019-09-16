@@ -3,7 +3,7 @@ package storage
 import (
 	"context"
 	"fmt"
-	"github.com/qiniu/api.v7/client"
+	"github.com/aiio/qiniu/client"
 	"strings"
 	"sync"
 )

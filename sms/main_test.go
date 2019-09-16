@@ -3,9 +3,9 @@ package sms_test
 import (
 	"os"
 
-	"github.com/qiniu/api.v7/auth"
+	"github.com/aiio/qiniu/auth"
 
-	"github.com/qiniu/api.v7/sms"
+	"github.com/aiio/qiniu/sms"
 )
 
 var manager *sms.Manager

@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/qiniu/api.v7/auth"
+	"github.com/aiio/qiniu/auth"
 )
 
 // Fusion CDN服务域名

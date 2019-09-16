@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/qiniu/api.v7/auth"
-	"github.com/qiniu/api.v7/storage"
+	"github.com/aiio/qiniu/auth"
+	"github.com/aiio/qiniu/storage"
 )
 
 var (
